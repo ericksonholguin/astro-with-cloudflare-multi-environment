@@ -12,5 +12,5 @@
 	},
 	"observability": {
     "enabled": true
-  }
+  },"env": {"production":{"name":"astro-with-cloudflare-multi-environment"}}
 }
