@@ -24,7 +24,7 @@
       }
     },
     "staging": {
-      "name": "astro-app-staging",
+      "name": "astro-with-cloudflare-multi-environment-staging",
       "vars": {
         "ENVIRONMENT": "staging"
       }
