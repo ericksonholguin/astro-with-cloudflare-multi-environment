@@ -12,7 +12,7 @@
   },
   "env": {
     "development": {
-      "name": "astro-with-cloudflare-dev"
+      "name": "astro-with-cloudflare-multi-environment-development"
     },
     "staging": {
       "name": "astro-with-cloudflare-staging"
